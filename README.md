@@ -61,7 +61,9 @@ ColorMeaningChecker/
 │   └── ColorMeaningChecker.java
 ├── README.md
 ├── .gitignore
+
 ---
+
 ## 📜 License
 This project is developed purely for educational purposes under the MotionCut Internship Program.
 
